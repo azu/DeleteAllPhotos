@@ -41,6 +41,7 @@
 		17B5C0A7ADF5133B62DEBEC6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		17B5C0E7516D6A179EC1F991 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		17B5C129E33AC20FD8BAA3E0 /* AlbumTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AlbumTableViewController.m; sourceTree = "<group>"; };
+		17B5C2A80DB8EE55D9962334 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = file.md; path = readme.md; sourceTree = "<group>"; };
 		17B5C2F952F93D696FF8504E /* AlbumTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AlbumTableViewController.h; sourceTree = "<group>"; };
 		17B5C34B092210F5E8494BEF /* DeleteAllPhotos-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DeleteAllPhotos-Prefix.pch"; sourceTree = "<group>"; };
 		17B5C382AC81BF470A394066 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
@@ -105,6 +106,7 @@
 				17B5CF364E5376D9738339BC /* Frameworks */,
 				17B5CF0705503B2E5DDA2C9D /* DeleteAllPhotos */,
 				17B5CA26ED50E509E5E50AB4 /* DeleteAllPhotosTests */,
+				17B5C2A80DB8EE55D9962334 /* readme.md */,
 			);
 			sourceTree = "<group>";
 		};
